@@ -1,0 +1,27 @@
+{
+  "name": "TreeBark",
+  "version": "1.0.0",
+  "description": "A css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpsierens/TreeBark.git"
+  },
+  "keywords": [
+    "css",
+    "css",
+    "framework",
+    "sass",
+    "responsive",
+    "grid"
+  ],
+  "author": "Jean-Pierre Sierens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpsierens/TreeBark/issues"
+  },
+  "homepage": "https://github.com/jpsierens/TreeBark"
+}
