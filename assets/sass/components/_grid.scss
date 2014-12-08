@@ -62,7 +62,9 @@ $breakpoint-small: 480px;
 .#{$grid-namespace} {
   list-style: none;
   margin-left: -$gutter-width;
-
+  
+  // % is used for placeholder selectors. placeholder selectors 
+  // are @extend-only. 
   > %span-all       { width: percentage(1/1); }
 
   > %one-half       { width: percentage(1/2); }
